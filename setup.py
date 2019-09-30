@@ -10,7 +10,7 @@ with open(path.join(current_path, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='laaiutils',
-    version='1.0.1',
+    version='1.0.2',
     description='Useful utils',
     long_description=long_description,
     url='https://github.com/ketu/laaiutils',
