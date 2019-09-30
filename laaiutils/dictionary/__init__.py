@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-def convert_dick_value(values: dict, mapper: dict or None = None):
+def convert_dict_value(values: dict, mapper: dict or None = None):
     if not mapper:
         return values
 
